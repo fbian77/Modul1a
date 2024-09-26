@@ -1,9 +1,6 @@
 # Problemstellung
 
-## Video 1
-Wir wollen alle DVDs geordnet darstellen. 
-Das schaffen wir mit den Medientypen VHS Kasetten und
-Konsolen Cardridges. Diese beiden Medientypen haben
-Daten wie Titel, Wert, Standort usw.
-
-## Video 2
+## Model 1
+Ich habe das Projekt jetzt analysiert und erkläre es jetzt kurz. Im Projekt von Modul 1 
+gibt es 7 Klassen und eine Klasse vom Typ Enum. Die Klasse Medium ist dabei die 
+wichtigste, denn die Klassen Cartridge, Buch und VHS erben von Medium.
