@@ -35,3 +35,10 @@ Ersetzbarkeit: Objekte von Subklassen können verwendet werden, wo Objekte eines
 Supertyps erwartet werden.
 
 Objektvariablen in Java sind polymorph. Sie können Objekte vom deklarierten Typs halten.
+
+deklarierter Typ einer Variable ist ihr statischer Typ.
+Typ eines Objekts ist sein dynamischer Typ.
+
+Methoden können in einer Subklasse überschrieben werden.
+
+Durch Zugriff protected wird die engere Vererbungsbeziehung unterstützt.say
