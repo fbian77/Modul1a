@@ -44,4 +44,5 @@ Methoden können in einer Subklasse überschrieben werden.
 Durch Zugriff protected wird die engere Vererbungsbeziehung unterstützt.say
 
 
-Im dritten Video geht es um Vererbung, Überschreiben, Ersetzbarkeit und dynaimscher Bindung
+Im dritten Video geht es um Vererbung, Überschreiben, Ersetzbarkeit und dynaimscher Bindung.
+Dort habe ich fast alles verstanden, da wir eigentlich alles schon im Unterricht durchgemacht haben.
